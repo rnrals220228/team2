@@ -1,0 +1,6 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+networkx==3.4.2
+pydantic==2.10.4
+folium==0.19.4
+httpx==0.28.1
